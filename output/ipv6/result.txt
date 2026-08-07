@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-08-07 18:48:27,https://www.freetv.top/migu/608807420.m3u8?migutoken=80908303af21bc464e188f7e6e33e325e8ac7cc103c5c0c6353cc836f0908085ba7e93a6689a2d96daf2f163fd9d3732ba71e1288a2e8bb2bf6ed82066df1e6eafbedc4ce9a9f3aa896c0e4cd9
+2026-08-08 06:34:24,https://www.freetv.top/migu/608807420.m3u8?migutoken=80908303af21bc464e188f7e6e33e325e8ac7cc103c5c0c6353cc836f0908085ba7e93a6689a2d96daf2f163fd9d3732ba71e1288a2e8bb2bf6ed82066df1e6eafbedc4ce9a9f3aa896c0e4cd9
 
 📺央视频道,#genre#
 CCTV-1,https://www.freetv.top/migu/608807420.m3u8?migutoken=80908303af21bc464e188f7e6e33e325e8ac7cc103c5c0c6353cc836f0908085ba7e93a6689a2d96daf2f163fd9d3732ba71e1288a2e8bb2bf6ed82066df1e6eafbedc4ce9a9f3aa896c0e4cd9
@@ -231,6 +231,8 @@ CETV-4,http://[2409:8087:1e01:23::10]:8112/000000001000/5000000006000012123/1.m3
 高尔夫网球,http://www.qfly9236.cn:8888/rtp/239.253.92.117:8062
 风云足球,https://live.goodiptv.club/api/yqgd.php?id=fyzq
 风云足球,http://www.qfly9236.cn:8888/rtp/239.253.92.110:8061
+电视指南,https://cc06.tv12.xyz/39.m3u8
+电视指南,http://iptv.666230.xyz/iptv/jsyd.php/G_DIANSHIZN-CQ
 世界地理,http://www.qfly9236.cn:8888/rtp/239.253.92.113:8066
 
 📡卫视频道,#genre#
