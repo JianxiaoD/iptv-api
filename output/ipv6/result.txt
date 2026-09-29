@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-28 08:20:52,https://www.freetv.top/migu/608807420.m3u8?migutoken=80908303af21bc464e188f7e6e33e325e8ac7cc103c5c0c6353cc836f0908085ba7e93a6689a2d96daf2f163fd9d3732ba71e1288a2e8bb2bf6ed82066df1e6eafbedc4ce9a9f3aa896c0e4cd9
+2026-09-30 00:21:36,https://www.freetv.top/migu/608807420.m3u8?migutoken=80908303af21bc464e188f7e6e33e325e8ac7cc103c5c0c6353cc836f0908085ba7e93a6689a2d96daf2f163fd9d3732ba71e1288a2e8bb2bf6ed82066df1e6eafbedc4ce9a9f3aa896c0e4cd9
 
 📺央视频道,#genre#
 CCTV-1,https://www.freetv.top/migu/608807420.m3u8?migutoken=80908303af21bc464e188f7e6e33e325e8ac7cc103c5c0c6353cc836f0908085ba7e93a6689a2d96daf2f163fd9d3732ba71e1288a2e8bb2bf6ed82066df1e6eafbedc4ce9a9f3aa896c0e4cd9
@@ -714,6 +714,7 @@ NewTV动作电影,http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8
 靖天戏剧,https://t.freetv.fun/live/jing-tian-xi-ju-11.m3u8
 靖天戏剧,https://t.freetv.fun/live/jing-tian-xi-ju-6.m3u8
 经典电影,https://yylunbo.ottiptv.cc/yy/1414812324
+经典电影,https://goodiptv.club/douyu/6091425
 天映经典,https://live.catvod.com/live.php?id=Celestial2&token=b3fddc202765908f8029338e8f72b2f888fb1501890d173553404072e9667ad9%3A1765243433%3AMTcyLjIxNS4yMTAuNTI%3D
 天映经典,https://live.catvod.com/live.php?id=Celestial2&token=420a03dd43a25c37f43c341e6bb055193875c3c094de16761b776be245a9af0c%3A1765416382%3AMTQ1LjEzMi45OS4yMQ%3D%3D
 天映经典,https://live.catvod.com/live.php?id=Celestial2&token=fe49c837f39399a5cc93763ad0450645555f38626eaf579d5687e2526ed82cae%3A1765588729%3ANjQuMjM2LjE0MC4yMTE%3D
